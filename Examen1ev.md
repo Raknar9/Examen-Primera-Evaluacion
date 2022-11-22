@@ -22,6 +22,7 @@
  git --version
 ````
 ![](imagen1.PNG)
+
 Todo esta en el [Aula Virtual](https://aulavirtual33.educa.madrid.org/ies.quevedo.madrid/mod/assign/view.php?id=55417)
 
 
